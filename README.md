@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am looking for a remote job as a Manual QA Engineer. I am looking for an internship opportunity and will be happy to complete your test assignments. 
+I'm a QA Engineer, I studied at GoIT Academy, and now I'm freelancing. I'm looking for an internship because I already have a bunch of mastered professional tools that I want to use in practice
 
 My Hard skills: 
-TestRail, JIRA,Development Tools, Postman, Swagger, SQL, Bugzilla, Qase, HTML, CSS, Responsively App, Scrum methodology, Slack, Trello, Confluence.
+TestRail, JIRA, Development Tools, Postman, Swagger, SQL, Bugzilla, Qase, HTML, CSS, Selenium IDE, JMeter, BrowserStack, Responsively App, Scrum methodology, Slack, Trello, Confluence.
 
 My Soft skills:
 Teamwork, Creativity, Sociability, Quick learner, Result-oriented.
