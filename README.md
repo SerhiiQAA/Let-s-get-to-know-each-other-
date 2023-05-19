@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Hochuvayti/hochuvayti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am looking for a remote job as a Manual QA Engineer. I am looking for an internship opportunity and will be happy to complete your test assignments. 
+My Hard skills: 
+TestRail, JIRA,Development Tools, Postman, Swagger, SQL, Bugzilla, Qase, HTML, CSS, Responsively App, Scrum methodology, Slack, Trello, Confluence.
+My Soft skills:
+Teamwork, Creativity, Sociability, Quick learner, Result-oriented.
+I will be glad to discuss the details of possible cooperation. Thank you for your attention.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
