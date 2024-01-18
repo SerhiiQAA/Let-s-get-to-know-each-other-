@@ -23,3 +23,6 @@
         Linkidin: https://www.linkedin.com/in/serhiiqaengineer/
 ### 😄 Placeholders: I prefer small cozy cafes
 ### ⚡ Interesting fact: I play the piano)
+
+
+***Thank you for your attention!***
